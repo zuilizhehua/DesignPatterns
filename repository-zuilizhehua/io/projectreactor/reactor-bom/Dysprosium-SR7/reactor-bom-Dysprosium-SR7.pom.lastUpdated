@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Feb 18 17:29:48 CST 2024
+@default-spring-milestone-https\://repo.spring.io/milestone/.lastUpdated=1708248587940
+https\://repo.spring.io/milestone/.error=Could not transfer artifact io.projectreactor\:reactor-bom\:pom\:Dysprosium-SR7 from/to spring-milestone (https\://repo.spring.io/milestone)\: transfer failed for https\://repo.spring.io/milestone/io/projectreactor/reactor-bom/Dysprosium-SR7/reactor-bom-Dysprosium-SR7.pom
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact io.projectreactor\:reactor-bom\:pom\:Dysprosium-SR7 from/to spring-snapshot (https\://repo.spring.io/snapshot)\: transfer failed for https\://repo.spring.io/snapshot/io/projectreactor/reactor-bom/Dysprosium-SR7/reactor-bom-Dysprosium-SR7.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1708248588153
+@default-spring-snapshot-https\://repo.spring.io/snapshot/.lastUpdated=1708248587952
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1708248587929
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

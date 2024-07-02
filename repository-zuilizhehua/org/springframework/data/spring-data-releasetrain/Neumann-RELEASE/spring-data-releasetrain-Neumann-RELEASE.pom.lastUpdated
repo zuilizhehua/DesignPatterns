@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Feb 18 17:29:49 CST 2024
+@default-spring-milestone-https\://repo.spring.io/milestone/.lastUpdated=1708248588896
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework.data\:spring-data-releasetrain\:pom\:Neumann-RELEASE from/to spring-milestone (https\://repo.spring.io/milestone)\: transfer failed for https\://repo.spring.io/milestone/org/springframework/data/spring-data-releasetrain/Neumann-RELEASE/spring-data-releasetrain-Neumann-RELEASE.pom
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.data\:spring-data-releasetrain\:pom\:Neumann-RELEASE from/to spring-snapshot (https\://repo.spring.io/snapshot)\: transfer failed for https\://repo.spring.io/snapshot/org/springframework/data/spring-data-releasetrain/Neumann-RELEASE/spring-data-releasetrain-Neumann-RELEASE.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1708248589104
+@default-spring-snapshot-https\://repo.spring.io/snapshot/.lastUpdated=1708248588908
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1708248588885
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
